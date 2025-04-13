@@ -16,8 +16,8 @@ Este repositório contém os códigos e exercícios desenvolvidos durante o curs
 
 ## Conteúdo
 
-* **`tipo-variaveis/src/TiposVariaveis.java`**: Demonstra o uso de tipos primitivos em Java, variáveis e constantes.
-* **`operadores/src/Operadores.java`**: Exemplos de operadores aritméticos, condicionais ternários, operadores relacionais e lógicos em Java.
+* **`/src/TiposVariaveis.java`**: Demonstra o uso de tipos primitivos em Java, variáveis e constantes.
+* **`/src/Operadores.java`**: Exemplos de operadores aritméticos, condicionais ternários, operadores relacionais e lógicos em Java.
 
 ## Próximos Passos
 
